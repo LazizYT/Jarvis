@@ -63,14 +63,6 @@ J.A.R.V.I.S/
 
 ---
 
-## ▶️ Installation & Run
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/LazizYT/Jarvis.git
-cd Jarvis
-```
-
 🎯 Project Goals
 The main goals of J.A.R.V.I.S are:
 Build a realistic AI assistant, not a toy project
@@ -112,3 +104,12 @@ SpeechRecognition contributors
 
 📜 License
 This project is released for educational and portfolio purposes.
+
+---
+## ▶️ Installation & Run
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/LazizYT/Jarvis.git
+cd Jarvis
+```
