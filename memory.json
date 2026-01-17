@@ -1,0 +1,79 @@
+{
+  "name": "Laziko",
+  "goals": [
+    "AI",
+    "University abroad",
+    "Build Jarvis",
+    "I want to study AI"
+  ],
+  "habits": [
+    "My habit is coding every day"
+  ],
+  "chats": {
+    "a296ab03": {
+      "id": "a296ab03",
+      "title": "hi",
+      "timestamp": "2026-01-16T11:07:45.522648",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hi"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello there! Nice to meet you. What brings you here today?"
+        }
+      ],
+      "think_mode": false
+    },
+    "4cd073dc": {
+      "id": "4cd073dc",
+      "title": "Hello can you tell me what you can do?",
+      "timestamp": "2026-01-16T11:15:40.821883",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello can you tell me what you can do?"
+        },
+        {
+          "role": "assistant",
+          "content": "⏱️ Время ожидания истекло\nПопробуйте еще раз"
+        }
+      ],
+      "think_mode": false
+    },
+    "870f510b": {
+      "id": "870f510b",
+      "title": "Hello can you tell me what you can do?",
+      "timestamp": "2026-01-16T11:18:27.422691",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello can you tell me what you can do?"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm Jarvis, your AI companion! I can assist with a wide range of tasks and provide information on various subjects. Here's a brief overview of my capabilities:\n\n1. [B]Answer questions[/B]: I can process natural language queries and provide relevant answers. Feel free to ask me anything from science and history to entertainment and culture.\n2. [B]Generate text[/B]: Need help writing an email, letter, or even a story? I can generate text based on your prompt or topic.\n3. [B]Translate languages[/B]: If you need to communicate with someone who speaks a different language, I can translate text or conversations in real-time.\n4. [B]Summarize content[/B]: Are you overwhelmed by a long article or document? I can summarize the main points for you.\n5. [B]Offer suggestions[/B]: Stuck on a problem or decision? I can provide suggestions and ideas based on my understanding of your situation.\n6. [B]Play games and puzzles[/B]: Want to have some fun? I can engage in text-based games, like Hangman, 20 Questions, or Word Jumble.\n\nRemember, I'm always learning and improving, so feel free to ask me anything!"
+        },
+        {
+          "role": "user",
+          "content": "and how you work?"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm a conversational AI designed to provide helpful and informative responses to your questions!"
+        }
+      ],
+      "think_mode": false
+    }
+  },
+  "statistics": {
+    "total_chats": 3,
+    "total_messages": 8,
+    "last_active": "2026-01-16T11:18:27.422759"
+  },
+  "history": [],
+  "settings": {
+    "theme": "dark"
+  }
+}
